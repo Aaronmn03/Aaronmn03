@@ -30,4 +30,3 @@ Estudiante de 4º Ingenieria Informatica 🎓| Desarrollador Fullstack (React / 
 ### 📫 Contáctame
 - InfoJobs -> Aarón Martínez
 - [LinkedIn](https://www.linkedin.com/in/aaron-martinez-navio-33829a258/)
-- [X](https://x.com/aaron_mn03)
