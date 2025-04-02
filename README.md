@@ -25,7 +25,7 @@ Estudiante de 4º Ingenieria Informatica 🎓| Desarrollador Fullstack (React / 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Aaronmn03&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### 📫 Contáctame
 - InfoJobs -> Aarón Martínez
