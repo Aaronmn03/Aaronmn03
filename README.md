@@ -1,6 +1,6 @@
 # ¡Hola, soy Aaron! 👋
 
-Estudiante de 4º Ingenieria Informatica 🎓| Desarrollador Fullstack (React / Node.js) ⚛️
+Graduado en Ingenieria Informatica 🎓| Desarrollador Fullstack (React / Node.js) ⚛️
 
 ### 🚀 Proyectos destacados
 - [**WEBKARTING**](https://github.com/Aaronmn03/WebKarting) - Pagina web desarrollada como un proyecto para la universidad con Spring Boot.
