@@ -4,7 +4,7 @@ Graduado en Ingenieria Informatica 🎓| Desarrollador Fullstack (React / Node.j
 
 ## Portfolio 
 
-- [**PORFOLIO**](https://vercel.com/aaroncs-projects-6b4ba9bf) - Pagina web desarrollada como ayuda al CV
+- [**PORFOLIO**](https://portfolio-zeta-puce-79.vercel.app/) - Pagina web desarrollada como ayuda al CV
 
 ### 🚀 Proyectos destacados
 - [**WEBKARTING**](https://github.com/Aaronmn03/WebKarting) - Pagina web desarrollada como un proyecto para la universidad con Spring Boot.
