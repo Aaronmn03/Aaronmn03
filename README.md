@@ -2,7 +2,7 @@
 
 Graduado en Ingenieria Informatica 🎓| Desarrollador Fullstack (React / Node.js) ⚛️
 
-## Portfolio 
+## 🌐Portfolio 
 
 - [**PORFOLIO**](https://portfolio-zeta-puce-79.vercel.app/) - Pagina web desarrollada como ayuda al CV
 
